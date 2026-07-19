@@ -123,26 +123,10 @@ https://github.com/anushkabhamare0308-cloud
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushkabhamare0308-cloud&show_icons=true&theme=github_dark)
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anushkabhamare0308-cloud&theme=github-dark)
 
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkabhamare0308-cloud&layout=compact&theme=github_dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=anushkabhamare0308-cloud&theme=tokyonight&margin-w=15)
 
 ---
 
