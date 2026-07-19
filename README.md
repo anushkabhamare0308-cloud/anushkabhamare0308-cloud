@@ -109,6 +109,53 @@ https://www.linkedin.com/in/anushka-bhamare-046443344
 https://github.com/anushkabhamare0308-cloud
 
 ---
+---
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushkabhamare0308-cloud&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anushkabhamare0308-cloud&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkabhamare0308-cloud&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=anushkabhamare0308-cloud&theme=tokyonight&margin-w=15)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anushkabhamare0308-cloud&theme=tokyo-night)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=anushkabhamare0308-cloud&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 💡 Quote
 
